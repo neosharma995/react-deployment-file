@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/neosharma995.github.io/react-deployment-file/static/css/main.073c9b0a.css",
+    "main.js": "/neosharma995.github.io/react-deployment-file/static/js/main.8adc494f.js",
+    "static/js/787.ed169faa.chunk.js": "/neosharma995.github.io/react-deployment-file/static/js/787.ed169faa.chunk.js",
+    "static/media/logo.svg": "/neosharma995.github.io/react-deployment-file/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/neosharma995.github.io/react-deployment-file/index.html",
+    "main.073c9b0a.css.map": "/neosharma995.github.io/react-deployment-file/static/css/main.073c9b0a.css.map",
+    "main.8adc494f.js.map": "/neosharma995.github.io/react-deployment-file/static/js/main.8adc494f.js.map",
+    "787.ed169faa.chunk.js.map": "/neosharma995.github.io/react-deployment-file/static/js/787.ed169faa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8adc494f.js"
+  ]
+}
